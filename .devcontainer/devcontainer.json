@@ -1,5 +1,5 @@
 {
-    "name": "inria_helloworld",
+    "name": "inria_ml_helloworld",
     // "dockerComposeFile": "docker-compose.yml",
     "build": {
         // We recommend you use the standard (common) Dockerfile if at all possible. If there is a hard reason for you to have
